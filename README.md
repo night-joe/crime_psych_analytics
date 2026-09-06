@@ -102,7 +102,7 @@ Parallel theory notes in `criminal_psychology_study/` — BSU history, theories,
 
 **1. Clone & Setup Environment**
 ```bash
-git clone https://github.com/YOUR_USERNAME/crime-psych-analytics.git
+git clone https://github.com/night-joe/crime-psych-analytics.git
 cd crime-psych-analytics
 
 # Create virtual environment
@@ -162,6 +162,6 @@ streamlit run 05_portfolio_projects/project_3_capstone_analytics/app.py
 ---
 
 ## 👤 Author
-Aurangabad, Maharashtra — Data Analytics + Criminal Psychology Enthusiast
+night-joe
 
 > Note: `data/` and `.venv/` are git-ignored. This repo contains code and notes only, not raw datasets.
