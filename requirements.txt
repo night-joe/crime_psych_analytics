@@ -1,0 +1,31 @@
+# Core Data Analytics Stack - Crime Psych Portfolio
+# Generated from your .venv - cleaned for portfolio readability
+
+# Data Handling
+pandas==3.0.5
+numpy==2.5.2
+openpyxl==3.1.5
+pyarrow==25.0.1
+
+# Visualization
+matplotlib==3.11.1
+seaborn==0.13.2
+plotly==7.0.0
+altair==6.2.2
+
+# Machine Learning & Stats (for profiling & behavioral clustering)
+scikit-learn==1.9.0
+scipy==1.18.1
+statsmodels==0.15.0
+networkx==3.6.1
+
+# Dashboard & App
+streamlit==1.63.0
+
+# Jupyter
+jupyter
+ipykernel==7.3.0
+jupyter_client==8.10.0
+
+# Optional - for future SQL + API work
+requests==2.34.2

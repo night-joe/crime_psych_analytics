@@ -1,0 +1,63 @@
+crime_psych_analytics/
+├── .vscode/
+│   └── settings.json
+├── 01_python_for_data_analysis/
+│   ├── 01_intermediate_python/
+│   │   ├── 01_functions_and_modules.py
+│   │   ├── 02_lambda_and_functional_tools.py
+│   │   ├── 03_comprehensions_and_matrix.py
+│   │   ├── 04_error_and_exception_handling.py
+│   │   ├── 05_file_io_csv_and_json.py
+│   │   ├── 06_generators_and_streaming_data.py
+│   │   ├── 07_collections_and_itertools.py
+│   │   ├── 08_capstone_log_parser_etl.py
+│   │   └── README.md
+│   ├── 02_numpy_basics/
+│   │   └── README.md
+│   ├── 03_pandas_core/
+│   │   └── README.md
+│   └── 04_advanced_pandas/
+│       └── README.md
+├── 02_sql_and_databases/
+│   ├── 01_sql_foundations/
+│   │   └── README.md
+│   ├── 02_aggregations_and_joins/
+│   │   └── README.md
+│   ├── 03_advanced_sql/
+│   │   └── README.md
+│   └── 04_python_sql_integration/
+│       └── README.md
+├── 03_eda_and_visualization/
+│   ├── 01_chart_design_principles/
+│   │   ├── 01_crime_eda_starter.ipynb
+│   │   └── README.md
+│   ├── 02_python_plotting/
+│   │   └── README.md
+│   └── 03_bi_tools_dashboards/
+│       └── README.md
+├── 04_statistics_for_analytics/
+│   ├── 01_descriptive_statistics/
+│   │   └── README.md
+│   ├── 02_inferential_stats_and_ab_testing/
+│   │   └── README.md
+│   └── 03_correlation_and_regression/
+│       └── README.md
+├── 05_portfolio_projects/
+│   ├── project_1_eda_python/
+│   │   └── README.md
+│   ├── project_2_sql_bi_dashboard/
+│   │   └── README.md
+│   └── project_3_capstone_analytics/
+│       └── README.md
+├── criminal_psychology_study/
+│   ├── 00_curriculum_overview.md
+│   ├── 01_history_and_bsu_foundations.md
+│   ├── 02_criminological_and_psychological_theories.md
+│   ├── 03_psychopathy_and_personality_disorders.md
+│   ├── 04_crime_scene_behavioral_analysis.md
+│   ├── 05_victimology_and_offender_interviewing.md
+│   ├── 06_violent_crime_typologies.md
+│   └── 07_modern_behavioral_analysis_and_open_resources.md
+├── .gitignore
+├── README.md
+└── requirements.txt

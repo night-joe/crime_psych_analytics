@@ -1,0 +1,81 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+.ENV
+
+# Data - large files, keep local only
+data/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.db
+*.sqlite
+*.sqlite3
+*.pkl
+*.pickle
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+*.ipynb_checkpoints
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*~
+
+# IDE & Editors
+.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*.code-workspace
+
+# Logs
+*.log
+logs/
+*.out
+
+# Streamlit
+.streamlit/
+.streamlit/secrets.toml
+
+# Power BI / Tableau temp
+*.pbix~
+*.twb~
+*.hyper
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
